@@ -16,10 +16,12 @@ with you wherever you go.
 ## System Requirements
 
 *	Microsoft Windows 10, 8, 7, Vista or XP.
+*	PostgreSQL versions 11 and beyond are 64bit only
 *	[PortableApps.com Platform][1] (Optional)
 
 ## Credits
 
+*	Forked from [Gareth Flowers' postgresql-portable][5] (this most excellent man deserves a beer!)
 *	PostgreSQL Portable is a redistribution of the [PostgreSQL Database Server][2].
 
 ## Licence
@@ -31,3 +33,4 @@ with you wherever you go.
 [2]: https://www.postgresql.org
 [3]: https://raw.githubusercontent.com/garethflowers/postgresql-portable/master/LICENSE
 [4]: http://www.postgresql.org/about/licence
+[5]: https://gareth.flowers/postgresql-portable/
